@@ -1,4 +1,6 @@
 - 👋 Opa, sou o lipey
 
-- Sou programador em JS (JavaScript), aliás, programador por amor sabe?
+- Tenho 16 anos, moro no Paraná, Brasil e sou 
+- programador em JS (JavaScript), programador por amor sabe?
+
 - (mentira, minha mãe mandou galera)
