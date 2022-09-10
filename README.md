@@ -1,6 +1,4 @@
-- 👋 Opa, sou o lipey
+- 👋 Hi, i am lipey (Felipe)
 
-- Tenho 16 anos, moro no Paraná, Brasil e sou 
-- programador em JS (JavaScript), programador por amor sabe?
-
-- (mentira, minha mãe mandou galera)
+- I am 16 years old, I live in Paraná, Brazil
+- Bilingual (Portuguese and Spanish)
