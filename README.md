@@ -5,4 +5,5 @@
 - JS and Discord.js lover
 
 - Creator of the "Payment System" vending bot.
-- Bot invitation: https://discord.com/api/oauth2/authorize?client_id=1030572127432212571&permissions=8&scope=bot%20applications.commands 
+- Bot invitation:
+-  https://discord.com/api/oauth2/authorize?client_id=1030572127432212571&permissions=8&scope=bot%20applications.commands 
