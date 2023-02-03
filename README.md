@@ -4,6 +4,6 @@
 - Bilingual (Portuguese and Spanish)
 - JS and Discord.js lover
 
-- Creator of the "Payment System" vending bot.
+- Creator of the "Lunar System" vending bot.
 - Bot invitation:
 - https://discord.com/api/oauth2/authorize?client_id=1045110993409282068&permissions=8&scope=applications.commands%20bot
