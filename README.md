@@ -1,9 +1,10 @@
 - 👋 Hi, i am lipey (Felipe)
 
-- I am 17 years old, I live in Paraná, Brazil
+- I am 18 years old, I live in Paraná, Brazil
 - Bilingual (Portuguese and Spanish)
-- JS and Discord.js lover
+- 💖 JS lover
+- 
+- I learned: JavaScript, Java, Python, ejs, React, Next.js, Next.ts, MongoDb, FireBase, Discord.js, Discord.py, JDA, Bukkit
 
-- Creator of the "Lunar System" verified bot.
-- Bot invitation:
-- https://discord.com/api/oauth2/authorize?client_id=1045110993409282068&permissions=8&scope=applications.commands%20bot
+- Demonstration of WebSite:
+- https://www.hagap.com.br
