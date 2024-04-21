@@ -6,7 +6,6 @@
 - 
 - I learned: JavaScript, Java, Python, ejs, React, Next.js, Next.ts, MongoDb, FireBase, Discord.js, Discord.py, JDA, Bukkit
 
-- Demonstration of WebSite:
-- https://www.hagap.com.br
+- Demonstration of WebSite: https://www.hagap.com.br
 
 - CEO and Developer of https://animeflix.me
