@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Reservando.ai, MyGames and OrdoVTT**
 
-- 👨‍💻 All of my projects are available at [https://felipeestrela.com.br](https://felipeestrela.com.br)
+- 👨‍💻 My portfolio is available at [https://felipeestrela.com.br](https://felipeestrela.com.br)
 
 - 📫 How to reach me **felipeestrela2006@gmail.com**
 
